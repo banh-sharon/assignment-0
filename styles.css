@@ -1,0 +1,37 @@
+html*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding: 1rem;
+}
+
+pre{
+    background-color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    margin: 0 auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+
+    box-shadow: 5px 0 rgb(112, 112, 27) inset, 3px 0 2px(114, 99, 99);
+    border-radius: 10px;
+    bottom: 50%;
+}
+
+footer{
+    text-align: center;
+}
